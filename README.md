@@ -8,4 +8,4 @@ This one is from different committer
 
 And this one shall be populated onto 2 branches
 
-And this one is with annotated tag attached to it
+And this one is with annotated tag attached 
